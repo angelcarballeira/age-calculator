@@ -6,9 +6,9 @@ Fue realizada con HTML5, CSS y Javascript.
 
 ## Desplegado en
 
- - [Calculadora de edad](https://calcula-edad.netlify.app/){:target="_blank"}
+ - [Calculadora de edad](https://calcula-edad.netlify.app/)
 
 ## Autor
 
- [Angel Carballeira](https://github.com/angelcarballeira){:target="_blank"}
+ [Angel Carballeira](https://github.com/angelcarballeira)
 
